@@ -24,3 +24,12 @@ input.form-control:focus{
   background-color: #E4FB85;
 
 }
+#search-bar{
+  padding: 1em;
+}
+
+/*#carousel-container img{
+  width: 100%;
+  height: 100%;
+
+}*/
